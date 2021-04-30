@@ -9,3 +9,5 @@ During the design and coding many SIM808 libraries were tested but all of them l
 
 The project is designed for moving vehicle and believed that a vehicle 12V battery connection to the module creates needed supply directly. 
 The project can be further utilized for additional features like driver key access after RFID varification. 
+
+The connectivity to Server can be done from "mySocket" program for php and python server side sockets.
