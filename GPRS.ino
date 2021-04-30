@@ -1,5 +1,4 @@
-char svr[20]="45.115.218.176";
-//char svr[20]="3.6.94.176";
+char svr[20]="*.*.*.*";
 char port[7]="8001";
 
 char aux_str[50];
