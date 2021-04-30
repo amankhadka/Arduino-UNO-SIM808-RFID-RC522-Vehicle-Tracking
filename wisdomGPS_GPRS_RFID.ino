@@ -1,4 +1,4 @@
-/* Tested on march 12 in my office with guidance from boss saurav sir.
+/* Tested on march 12 in my office with guidance from boss.
  *  Discovered the problem is with the sim but not woith the code,
  *  GPS is successfully sent through GPRS in every 7 sec with delay 5 sec
  *  
